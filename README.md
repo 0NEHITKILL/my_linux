@@ -4,14 +4,14 @@
 - [Installing](#installing)
 
 ## Apps
-    Gnome-Tweaks
-    Snap
-    Authy
-    VSCode
-    Git
-    Open Drive
-    Shell Extension
-    Yaru Theme
+-   Gnome-Tweaks
+-   Snap
+-   Authy
+-   VSCode
+-   Git
+-   Open Drive
+-   Shell Extension
+-   Yaru Theme
 ## Installing
 - Clone this repository or download a release
 ```
