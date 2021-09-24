@@ -1,6 +1,4 @@
-printf "Atualizando o Sistema."
-sleep 2
-sudo apt update && sudo apt upgrade
+sudo apt install gnome-tweaks
 printf "Snap"
 sleep 2
 sudo apt install snapd
@@ -20,6 +18,11 @@ sudo apt install git
 printf "Open Drive"
 sleep 2
 sudo snap install odrive-unofficial
+printf "Shell Extension"
+sudo apt install gnome-shell-extensions
+printf "Theme"
+git clone https://github.com/Jannomag/Yaru-Colors.git
+cd Yaru-Colors/ && ./install.sh
 printf "Finalizando"
 sudo apt-get autoclean
 sudo apt-get autoremove
