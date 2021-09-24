@@ -4,12 +4,6 @@
 - [Installing](#installing)
 
 ## apps
-- Clone this repository or download a release
-## Installing
-- Clone this repository or download a release
-```
-git clone https://github.com/teste
-cd ./teste
     <li>Gnome-Tweaks
     <li>Snap
     <li>Authy
@@ -18,3 +12,8 @@ cd ./teste
     <li>Open Drive
     <li>Shell Extension
     <li>Theme
+## Installing
+- Clone this repository or download a release
+```
+git clone https://github.com/teste
+cd ./teste
