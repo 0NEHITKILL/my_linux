@@ -1,5 +1,9 @@
-<h1 align="center">My Apps Linux</h1>
-<ul>
+# My Apps Linux<
+
+- [Apps](#apps)
+- [Installing](#installing)
+	- [Linux](#linux)
+
     <li>Gnome-Tweaks
     <li>Snap
     <li>Authy
@@ -8,4 +12,3 @@
     <li>Open Drive
     <li>Shell Extension
     <li>Theme
-</ul>
