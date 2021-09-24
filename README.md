@@ -11,7 +11,7 @@
     Git
     Open Drive
     Shell Extension
-    Theme
+    Yaru Theme
 ## Installing
 - Clone this repository or download a release
 ```
