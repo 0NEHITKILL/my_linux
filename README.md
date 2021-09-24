@@ -2,8 +2,14 @@
 
 - [Apps](#apps)
 - [Installing](#installing)
-	- [Linux](#linux)
 
+## apps
+- Clone this repository or download a release
+## Installing
+- Clone this repository or download a release
+```
+git clone https://github.com/teste
+cd ./teste
     <li>Gnome-Tweaks
     <li>Snap
     <li>Authy
