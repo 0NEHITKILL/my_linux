@@ -1,13 +1,12 @@
 # my_linux
 <h1 align="center">My Apps Linux</h1>
 <ul>
-  <li>Teste
+    <li>Gnome-Tweaks
+    <li>Snap
+    <li>Authy
+    <li>VSCode
+    <li>Git
+    <li>Open Drive
+    <li>Shell Extension
+    <li>Theme
 </ul>
-Gnome-Tweaks
-Snap
-Authy
-VSCode
-Git
-Open Drive
-Shell Extension
-Theme
