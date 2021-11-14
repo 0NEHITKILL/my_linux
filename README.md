@@ -1,4 +1,4 @@
-# My Apps Linux<
+# My Apps Linux
 
 - [Apps](#apps)
 - [Installing](#installing)
@@ -14,4 +14,4 @@
 -   Yaru Theme
 ## Installing
 - Clone this repository.
-- git clone https://github.com/0NEHITKILL/my_linux.git && cd my_linux && ./linux.sh
+- git clone https://github.com/0NEHITKILL/my_linux.git && cd my_linux && sudo sh linux.sh 
